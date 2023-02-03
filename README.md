@@ -3,7 +3,7 @@
 ### Abstract
 [//]: <>
 
-  This app is a game that is unique in that it is playable only through the command line of the terminal. When you run the game you are presented with a unique question out of 30, and given multiple choice answers or a true/false choice. You then make your selection, and if your answer is correct, it tells you so. For an incorrect answer it again tells yo so. At the end of the 30 cards, it will tell you that it's over, and also the percentage of answers that you answered correctly.
+  This app is a game that is unique in that it is playable only through the command line of the terminal. When you run the game you are presented with a unique question out of 30, and given multiple choice answers or a true/false choice. You then make your selection, and if your answer is correct, it tells you correct. For an incorrect answer it again tells you incorrect. At the end of the 30 cards, it will tell you that it's over, and also the percentage of answers that you answered correctly.
 
 ### Game Preview
 [//]: <>
