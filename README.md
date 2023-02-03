@@ -7,7 +7,7 @@
 
 ### Game Preview
 [//]: <>
-![FlashCards](https://user-images.githubusercontent.com/116752855/216476008-892db344-10fa-452d-9320-fbb10cd4465c.gif)
+![FlashCardGif](https://user-images.githubusercontent.com/116752855/216478399-b2d11b1b-9377-4873-9c18-f9f4f0f643f9.gif)
 
 ### Tech Used
 [//]: <>
